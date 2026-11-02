@@ -1,0 +1,6 @@
+# Raw data is downloaded by scripts/download_data.sh (too large for git)
+data/
+__pycache__/
+.venv/
+.DS_Store
+.idea/

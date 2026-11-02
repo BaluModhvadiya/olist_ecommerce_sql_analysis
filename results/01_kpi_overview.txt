@@ -1,0 +1,5 @@
+ orders | customers | gmv_brl  | freight_brl | avg_order_value | freight_pct_of_gmv | avg_items_per_order | avg_review_score | pct_negative_reviews | pct_delivered_late 
+--------+-----------+----------+-------------+-----------------+--------------------+---------------------+------------------+----------------------+--------------------
+  97905 |     94703 | 13449530 |     2238867 |          137.37 |               16.6 |                1.14 |             4.12 |                 13.8 |                6.8
+(1 row)
+

@@ -1,0 +1,16 @@
+ payment_type | orders | paid_brl | pct_value 
+--------------+--------+----------+-----------
+ credit_card  |  75387 | 12308002 |      78.5
+ boleto       |  19477 |  2817400 |      18.0
+ voucher      |   3734 |   348891 |       2.2
+ debit_card   |   1513 |   212176 |       1.4
+(4 rows)
+
+  installment_plan   | orders | pct_orders | avg_order_value | median_order_value 
+---------------------+--------+------------+-----------------+--------------------
+ 1. Paid in full     |  23431 |       32.1 |           82.41 |              55.00
+ 2. 2-3 installments |  22040 |       30.2 |          113.64 |              89.99
+ 3. 4-6 installments |  15689 |       21.5 |          156.54 |             107.49
+ 4. 7+ installments  |  11738 |       16.1 |          298.77 |             179.00
+(4 rows)
+
